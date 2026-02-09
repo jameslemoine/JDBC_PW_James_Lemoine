@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.isen.java2.db.daos"},{"l":"fr.isen.java2.db.entities"}];updateSearchResults();
