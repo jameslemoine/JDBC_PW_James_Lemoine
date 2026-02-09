@@ -2,7 +2,7 @@
 
 Ce projet est une application Java utilisant **JDBC** pour gérer une base de données de films et de genres. Il implémente le pattern **DAO** (Data Access Object) pour séparer la logique d'accès aux données de la logique métier.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 * **Gestion des Genres** : Lister, récupérer par nom et ajouter des genres.
 * **Gestion des Films** : 
@@ -11,7 +11,7 @@ Ce projet est une application Java utilisant **JDBC** pour gérer une base de do
     * Ajout de nouveaux films avec récupération automatique de l'ID généré.
 * **Tests Unitaires** : Couverture des fonctionnalités principales avec JUnit 5 et AssertJ.
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * **Java 17+**
 * **JDBC** (Java Database Connectivity)
@@ -19,13 +19,13 @@ Ce projet est une application Java utilisant **JDBC** pour gérer une base de do
 * **JUnit 5 & AssertJ** (Tests unitaires)
 * **Maven** (Gestionnaire de dépendances)
 
-## 📁 Structure du projet
+##  Structure du projet
 
 * `src/main/java` : Contient les entités (`Movie`, `Genre`) et les DAOs.
 * `src/test/java` : Contient les classes de test (`MovieDaoTestCase`, etc.).
 * `DataSourceFactory.java` : Gère la connexion à la base de données.
 
-## 🚦 Installation et Tests
+##  Installation et Tests
 
 1. Cloner le dépôt :
    ```bash
